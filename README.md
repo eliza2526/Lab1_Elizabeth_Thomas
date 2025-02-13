@@ -4,4 +4,8 @@
 
 * Text Input for Random number added
 * Two Buttons for Prime, Not Prime added
-* Checkmark Function (checkmark if correct answer, xmark if wrong answer)
+* Displays Result if Prime checkmark and if Not Prime xmark 
+
+### On February 12th work commited:
+
+* Once Prime/Not Prime result displayed, next random number is generated in 5 seconds

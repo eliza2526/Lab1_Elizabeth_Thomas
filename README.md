@@ -8,4 +8,4 @@
 
 ### On February 12th work commited:
 
-* Once Prime/Not Prime result displayed, next random number is generated in 5 seconds
+* Once Prime/Not Prime result displayed, next random number is generated every 5 seconds
